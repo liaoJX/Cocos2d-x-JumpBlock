@@ -1,0 +1,16 @@
+<Solution>
+  <PropertyGroup Name="JumpBlock" Version="2.2.5.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="lose_title.png" />
+        <Image Name="restart_title.png" />
+        <Project Name="GameOverLayer.csd" Type="Layer" />
+        <Image Name="exit_title.png" />
+        <Project Name="ButtonExit.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

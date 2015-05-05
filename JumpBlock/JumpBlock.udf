@@ -1,0 +1,40 @@
+<UserData>
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.JumpBlock" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-15" />
+        <iOS_Target Value="JumpBlock iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <FrameworkVersion Value="cocos2d-x-3.5" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Unknown" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="GameOverLayer.csd" />
+          <FilePathData Path="ButtonExit.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="ButtonExit.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
